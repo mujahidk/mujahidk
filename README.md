@@ -9,6 +9,8 @@ and Microsoft .NET technologies. He focus on delivering high quality software
 applications in various application domains using industry tested application
 development principles and processes like DRY, SOLID, YAGNI, Agile & Scrum and TDD.
 
+⚡ [https://mujahidk.com](https://mujahidk.com)
+
 <!--
 **mujahidk/mujahidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
